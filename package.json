@@ -1,0 +1,16 @@
+{
+  "author": "",
+  "name": "nodecopterfun",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/iros/nodecoptering.git"
+  },
+  "dependencies": {
+    "ar-drone" : "*",
+    "johnny-five" : "*"
+  },
+  "engines": {
+    "node": "*"
+  }
+}
