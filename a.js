@@ -19,7 +19,6 @@ board.on("ready", function() {
     
     var val = event.target[ event.axis ];
 
-    val = event.target[ event.axis ];
     if (event.axis === "x") {
       if (val > 600) {
         client.right(0.25);
